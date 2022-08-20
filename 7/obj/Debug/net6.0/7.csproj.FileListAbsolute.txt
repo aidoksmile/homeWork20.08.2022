@@ -1,0 +1,15 @@
+/Users/Aida/Documents/занятия/homeWork20.08/7/obj/Debug/net6.0/7.csproj.AssemblyReference.cache
+/Users/Aida/Documents/занятия/homeWork20.08/7/obj/Debug/net6.0/7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aida/Documents/занятия/homeWork20.08/7/obj/Debug/net6.0/7.AssemblyInfoInputs.cache
+/Users/Aida/Documents/занятия/homeWork20.08/7/obj/Debug/net6.0/7.AssemblyInfo.cs
+/Users/Aida/Documents/занятия/homeWork20.08/7/obj/Debug/net6.0/7.csproj.CoreCompileInputs.cache
+/Users/Aida/Documents/занятия/homeWork20.08/7/bin/Debug/net6.0/7
+/Users/Aida/Documents/занятия/homeWork20.08/7/bin/Debug/net6.0/7.deps.json
+/Users/Aida/Documents/занятия/homeWork20.08/7/bin/Debug/net6.0/7.runtimeconfig.json
+/Users/Aida/Documents/занятия/homeWork20.08/7/bin/Debug/net6.0/7.dll
+/Users/Aida/Documents/занятия/homeWork20.08/7/bin/Debug/net6.0/ref/7.dll
+/Users/Aida/Documents/занятия/homeWork20.08/7/bin/Debug/net6.0/7.pdb
+/Users/Aida/Documents/занятия/homeWork20.08/7/obj/Debug/net6.0/7.dll
+/Users/Aida/Documents/занятия/homeWork20.08/7/obj/Debug/net6.0/ref/7.dll
+/Users/Aida/Documents/занятия/homeWork20.08/7/obj/Debug/net6.0/7.pdb
+/Users/Aida/Documents/занятия/homeWork20.08/7/obj/Debug/net6.0/7.genruntimeconfig.cache
